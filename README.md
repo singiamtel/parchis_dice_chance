@@ -8,3 +8,5 @@ The rules are the following:
 - If you roll 3 doubles in a row, your piece goes back to the start
 
 My calc is only correct if you have 1 moveable piece (in real Parchis you can make each move with a different piece and therefore "discard" one of the rolls)
+
+![Chance of reaching a square in a single turn](./chances.png)
