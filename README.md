@@ -9,6 +9,10 @@ The rules are the following:
 
 My calc is only correct if you have 1 moveable piece (in real Parchis you can make each move with a different piece and therefore "discard" one of the rolls)
 
+The permutated graph is calculated by counting manually all the possible combinations of the dice rolls, and the random chances is calculated by simulating a lot of rolls and counting them.
+
+
+
 ![chances](https://github.com/user-attachments/assets/f278e313-ca13-4253-afbc-ffe193f4960f)
 
 Even rolls are less likely because of the rerolling doubles rule. For example, you can't get a 12 with a double 6, you would need a different double and the difference (e.g. 4/4 + 3/1)
