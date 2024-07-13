@@ -9,4 +9,4 @@ The rules are the following:
 
 My calc is only correct if you have 1 moveable piece (in real Parchis you can make each move with a different piece and therefore "discard" one of the rolls)
 
-![Chance of reaching a square in a single turn](./chances.png)
+![chances](https://github.com/user-attachments/assets/f278e313-ca13-4253-afbc-ffe193f4960f)
