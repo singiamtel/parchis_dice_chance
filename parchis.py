@@ -59,6 +59,7 @@ def main():
     fig, ax = plt.subplots(2)
 
     assert isinstance(ax, np.ndarray) # shut up LSP
+    plt.subplots_adjust(hspace=0.3)
     ax[0].bar(normalized_all.keys(), normalized_all.values(), color='b')
     ax[0].set_title('Permutated')
     ax[1].bar(normalized_random.keys(), normalized_random.values(), color='r')
